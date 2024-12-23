@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\bin\Debug\net9.0\Operators.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\bin\Debug\net9.0\Operators.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\bin\Debug\net9.0\Operators.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\bin\Debug\net9.0\Operators.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\bin\Debug\net9.0\Operators.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\refint\Operators.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\Operators.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators\obj\Debug\net9.0\ref\Operators.dll
